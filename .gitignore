@@ -1,5 +1,6 @@
 *.sqp
-*.*~project.lock.json
+*.*~
+project.lock.json
 .DS_Store
 *.pyc
 
