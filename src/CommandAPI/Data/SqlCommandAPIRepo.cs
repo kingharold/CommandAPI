@@ -30,7 +30,7 @@ namespace CommandAPI.Data
             _context.CommandItems.Remove(cmd);
         }
 
-        public IEnumerable<Command> GetallCommands()
+        public IEnumerable<Command> GetAllCommands()
         {
             return _context.CommandItems.ToList();
         }

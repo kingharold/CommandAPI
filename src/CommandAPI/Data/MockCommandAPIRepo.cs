@@ -15,7 +15,7 @@ namespace CommandAPI.Data
             throw new System.NotImplementedException();
         }
 
-        public IEnumerable<Command> GetallCommands()
+        public IEnumerable<Command> GetAllCommands()
         {
             var commands = new List<Command>
             {
