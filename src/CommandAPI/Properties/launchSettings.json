@@ -20,7 +20,8 @@
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "GITHUB_TOKEN": "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"
       }
     }
   }
